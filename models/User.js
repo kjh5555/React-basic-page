@@ -1,3 +1,5 @@
+//User에 관한 데이터모델 생성 
+
 const mongoose = require('mongoose');
 
 //유저 스키마 정의
